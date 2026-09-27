@@ -1,0 +1,3 @@
+alert_email          = "you@example.com"
+enable_stop_schedule   = false
+enable_orphan_schedule = false
